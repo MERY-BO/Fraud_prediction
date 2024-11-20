@@ -53,32 +53,6 @@ Feature scaling and normalization.
 
 Addressing class imbalance.
 
-⚙️ Installation & Setup
-
-Prerequisites
-
-Python 3.7+
-
-Install the required libraries:
-
-pip install -r requirements.txt
-
-Running the API
-
-Clone the repository:
-
-git clone https://github.com/yourusername/fraud-detection-fastapi.git
-
-cd fraud-detection-fastapi
-
-Start the FastAPI server:
-
-Copy code
-
-uvicorn main:app --reload
-
-The API will be running at http://127.0.0.1:8000.
-
 🧪 Model Performance
 
 The model achieved an accuracy of 97% using Random Forest Classifier. Precision, recall, and F1-score metrics were also optimized for imbalanced class distribution.
