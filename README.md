@@ -2,6 +2,7 @@
 Fraud Detection and FastAPI Deployment:
 
 Overview
+
 This project aims to develop a fraud detection model using machine learning algorithms and deploy it through a FastAPI application. The goal is to predict fraudulent transactions based on the provided dataset, which includes features like transaction amount, time, and several other variables.
 
 The fraud detection model leverages techniques to handle imbalanced data, and once trained, it is deployed using FastAPI for real-time predictions via a web service.
